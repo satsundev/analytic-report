@@ -1,4 +1,4 @@
-# Anlytic report for data mismatch using VUE 3 and ASP CORE 7
+# Anlytic report sample using VUE 3 and ASP CORE 7
 The analytic report was designed using SSRS Reporting Tools.
 
 ## Prerequisite
